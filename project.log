@@ -171,3 +171,9 @@ From this heatmap, we can see that flipper_length_mm and body_mass_g show strong
 2026-06-01 21:09:00 | INFO | EDA |   Model body_mass_g ~ flipper_length_mm with linear regression
 2026-06-01 21:09:00 | INFO | EDA | ----- in a script, call plt.show() once at the end to display all charts -----
 2026-06-01 21:09:00 | INFO | EDA | ----- in a script, close the chart windows (with the close button) to continue  -----
+2026-06-01 21:18:36 | INFO | EDA | EDA workflow complete
+2026-06-01 21:18:36 | INFO | EDA | IMPORTANT: This script creates chart windows.
+2026-06-01 21:18:36 | INFO | EDA | Close any chart windows and terminate this process with CTRL+c as needed.
+2026-06-01 21:18:36 | INFO | EDA | ========================
+2026-06-01 21:18:36 | INFO | EDA | Executed successfully!
+2026-06-01 21:18:36 | INFO | EDA | ========================
